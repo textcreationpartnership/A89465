@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two speeches delivered by the Earl of Manchester, and Mr. Io: Pym, Esquire, in Guild-Hall, on Friday the 25. of Nov. 1642. Concerning a present supply of money for the army, and propositions for easing the city for the time to come: and laying the burthen on the neutrallists and malignants throughout the kingdom.</title>
+            <author>Manchester, Edward Montagu, Earl of, 1602-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89465</idno>
+            <idno type="STC">Wing M401</idno>
+            <idno type="STC">Thomason E128_18</idno>
+            <idno type="STC">ESTC R1220</idno>
+            <idno type="EEBO-CITATION">99859234</idno>
+            <idno type="PROQUEST">99859234</idno>
+            <idno type="VID">111304</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89465)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111304)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E128[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two speeches delivered by the Earl of Manchester, and Mr. Io: Pym, Esquire, in Guild-Hall, on Friday the 25. of Nov. 1642. Concerning a present supply of money for the army, and propositions for easing the city for the time to come: and laying the burthen on the neutrallists and malignants throughout the kingdom.</title>
+                  <author>Manchester, Edward Montagu, Earl of, 1602-1671.</author>
+                  <author>Pym, John, 1584-1643.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. F. for Peter Cole, and are to be sold at his shop at the sign of the Glove and Lyon, neer the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Pym and Manchester were "dispatched by Parliament to the city to announce the resolution" to levy a tax.  cf. Gardiner, S. R.  This history of the great Civil war.  London, 1888-1901.  v. 1, p. 74.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 26:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Appropriations and expenditures --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Finance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111304:1"/>
+            <pb facs="tcp:111304:1" rendition="simple:additions"/>
+            <p>
+               <hi>TWO</hi> SPEECHES <hi>Delivered by the</hi> Earl of Mancheſter, <hi>AND</hi> Mr. Io: Pym, Eſquire, <hi>IN</hi> GVILD-HALL, On Friday the 25. of Nov. 1642.</p>
+            <p>Concerning a preſent Supply of Money for the Army, and Propoſitions for eaſing the City for the time to come:</p>
+            <p>And laying the burthen on the Neutralliſts and Malignants throughout the Kingdom.</p>
+            <p>
+               <add>Nouemb: 26:</add> 
+               <hi>LONDON:</hi> Printed by <hi>J. F.</hi> for <hi>Peter Cole,</hi> and are to be ſold at his ſhop at the ſign of the Glove and Lyon, neer the <hi>Royall-Exchange.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:111304:2"/>
+            <pb n="3" facs="tcp:111304:2"/>
+            <head>The Earl of Mancheſter his SPEECH.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">M</seg>Y Lord Maior, and Gentlemen, you of the City of <hi>London,</hi>
+               </salute>
+            </opener>
+            <p>I am commanded to come hither upon an Errand, that I know in the generall is never pleaſ<g ref="char:EOLhyphen"/>ing, which is to expreſſe wants and neceſſities; but I know ve<g ref="char:EOLhyphen"/>ry well to whom I ſpeak, it is to the Worthy, the Generous, and the Royall CITIZENS of <hi>London,</hi> who have exceeded all Story in their care, for the life and preſervation both of the Parliament and the whole Kingdom: Therefore it would imply a diſtruſt of your preſent care, to make a Supply, if I ſhould uſe any Arguments to you; I ſhall onely ſay this, that if there be not an enlargement of your ſelves in ſome meaſure at the preſent, I ſhall be ve<g ref="char:EOLhyphen"/>ry unwilling to expreſſe the condition that I fear our Army will be reduc'd to: This is all that I ſhall ſay, that if there be a preſent Supply, I do not doubt but the Army will move with that effect, as it will prevent all thoſe bar<g ref="char:EOLhyphen"/>barous and ſalvage plunderings of the Forces that are
+<pb n="4" facs="tcp:111304:3"/>now under the Command of thoſe Officers of the King. I confeſſe the burthen hath lain very heavie onely upon the City of <hi>London,</hi> and you ſhall have the grace, and the honour of the preſervation, both of Religion, and the Laws and Liberties of this Kingdom. This Gentleman that is by me, will let you know that it is already in Pro<g ref="char:EOLhyphen"/>poſition, (and I do not doubt but it will ſpeedily have the concurrence of the Lords with it) to take that care, that the future burthen ſhall not lye upon thoſe here in the City of <hi>London,</hi> that have been carefull to make Supplies, even to the exhauſting of themſelves; but that it ſhall go generally to all thoſe that have ſhrowded themſelves under a kinde of Neutrality here in <hi>London;</hi> and that it ſhall go generally throughout all the Countries of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> that ſo the common Calamities ſhall be prevented, and ſupported by the common burthen laid upon the whole Kingdom.</p>
+         </div>
+         <div type="speech">
+            <pb n="5" facs="tcp:111304:3"/>
+            <head>Maſter Iohn Pym HIS SPEECH.</head>
+            <opener>
+               <salute>GEntlemen,</salute>
+            </opener>
+            <p>we come not to tell your Lordſhip and theſe worthy Citizens onely our wants and dangers; but we come to ſpeake the thanks of the Par<g ref="char:EOLhyphen"/>liament to you, for that that you have alre<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dy done, that you have ſhewed ſo much affection to the publique, and that it hath produced ſo good effects throughout the whole Kingdom, as that now you have an Army raiſed moſt out of this City, able to defend (with Gods bleſſing) the Religion and Liberty of the Kingdom, if it may be upheld: and we come not onely to give you thanks for that that you have done, but to ſtirre you up to joyne with us in giving thanks to God, that hath given ſuch a bleſſing to our endeavours, that when by Letters into all parts almoſt they did preſume before hand to triumph in the ruine, and in the plundering of this Citie, God prevented it, and hath kept you ſafe, kept your Houſes, your Walls, your Suburbs ſafe from that that was intended againſt you; and truely as we have ſought for this bleſſing by faſting and by pray<g ref="char:EOLhyphen"/>er,
+<pb n="6" facs="tcp:111304:4"/>ſo it is fit that we ſhould teſtifie our thanksgiving for it, and this is a neceſſary part of our errand which we are ſent about: and that we may be ſerviceable to Gods providence ſtill, as he hath ſtirred up your hearts to do ſo much already, ſo that he would ſtirre you up ſtill to continue that that is fit to be done for the future, and that you will do it in ſuch a way as may be moſt pleaſing to your ſelves: we come not hither, that by any conſent here in publique, you ſhould bind your ſelves in particular; but we come to let you know the dangers of the Kingdom, the ſenſe the Par<g ref="char:EOLhyphen"/>liament hath of it, and of the Citie eſpecially, that you may not loſe that that hath bin already done; but that you may go on ſtill cheerfully to do the full worke; And we come to tell you that the Parliament doth in<g ref="char:EOLhyphen"/>tend the burden ſhall not lye upon you that are well-af<g ref="char:EOLhyphen"/>fected and come in voluntarily; but that they have thought upon a way, and have begun it already, and I hope within two or three dayes at the moſt it ſhall be publiſhed to you; that all that are indiſpoſed ſhall be forced to do that, which out of readineſſe and cheer<g ref="char:EOLhyphen"/>fulneſſe to the publique good they will not doe of themſelves; neither limit it we to the Citie and Sub<g ref="char:EOLhyphen"/>urbs; but we are in a courſe to draw in all the Coun<g ref="char:EOLhyphen"/>tries of the Kingdom, that as the burden is univerſall, ſo the aid may be univerſall; for this is the thoughts of the Parliament. And if it pleaſe God to bleſſe your Forces that are already raiſed, and continued, wee hope you ſhall not onely ſee peace againe in the King<g ref="char:EOLhyphen"/>dome, and ſecurity for your Religion; but ſee thoſe that have been the engines and actors of the miſchiefs
+<pb n="7" facs="tcp:111304:4"/>and troubles that are come upon us, the burden ſhall lye upon them, that they ſhall recompence the charges you have been at already: This is the intention of the Parliament, onely for the preſent do ſomewhat eve<g ref="char:EOLhyphen"/>ry man, as GOD ſhall enable him, do ſomewhat that may meet the preſent neceſſities, and prevent the dangers that require a preſent ſubſiſtance, and preſent ſupply of the Army, without which, what is it will follow but the danger of the Citie; the ruine of the Countries about, the ſtopping up of the River which is almoſt taken from you, and the Sea-coaſts will be loſt; you cannot have better hearts then you have, God hath enabled many of you with purſes, I hope it will be ſo readily diſpoſed that we ſhall have a full joy in the recompence of it, and the retribution; which we ſhall all pray God to bring to paſſe, and I hope you will bring to paſſe.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
